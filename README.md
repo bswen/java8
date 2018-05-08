@@ -7,3 +7,4 @@ java 8 tutorials:
 - [How to filter a list with Predicate](http://www.bswen.com/2018/05/java-filters-of-List-by-using-Predicate.html)
 - [How to use logical operators with Predicate](http://www.bswen.com/2018/05/java-How-to-use-logical-operators-with-Predicate.html)
 - [How to deep clone a collection](http://www.bswen.com/2018/05/java-How-to-deep-copy-or-shadow-copy-a-collection(List-Set-Map).html)
+- [transform a List to Map by using java 8 lambda and stream or Guava](http://www.bswen.com/2018/05/java-How-to-transform-a-List-to-Map-by-using-java-8-lambda-and-stream.html)
