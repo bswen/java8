@@ -1,8 +1,8 @@
 # bswen-java8-project
 code for www.bswen.com 
+  
 
-
-java 8 tutorials:
+java 8 tutorials list:
 - [Learn java thread communication with me 2](http://www.bswen.com/2018/05/java-Learn-java-thread-communication-with-me-2.html)
 - [Learn java thread communication with me 1](http://www.bswen.com/2018/05/java-Learn-java-thread-communication-with-me-1.html)
 - [How to reference a method with exception by using lambda expression](http://www.bswen.com/2018/05/java-FunctionInterface-and-method-with-Exception.html)
